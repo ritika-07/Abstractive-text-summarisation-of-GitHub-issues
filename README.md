@@ -11,8 +11,9 @@ A dataset of GitHub Issues' titles, bodies and URLs has been used to create a Se
 - The model's performance is determined through it's BLEU score.
 
 ## Architecture
+![Architecture diagram](https://github.com/ritika-07/Abstractive-text-summarisation-of-GitHub-issues/blob/main/architecture.png)
 
 ## Dataset
 The dataset used has over 8M entries and hence the model requires sufficient training time.
 <br>
-You can find the dataset here
+You can find the dataset [here](https://www.kaggle.com/davidshinn/github-issues).
